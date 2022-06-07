@@ -1,0 +1,39 @@
+body {
+    background: white;
+    background-image: url(img/1105_2x1.webp);
+    background-size: cover;
+    background-position: center;
+    margin-left: 380px;
+    color: aliceblue;
+    
+}
+
+.shopping img {
+    width: 700px;
+    margin: 5px auto;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+
+
+.Nature-Wildlife img {
+    width: 700px;
+    margin: 5px auto;
+    cursor: pointer;
+    
+}
+
+.Activites img {
+    width: 700px;
+    margin: 5px auto;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+h1 {
+    
+   
+    
+}
+
